@@ -1,0 +1,26 @@
+{
+    "name": "@tomee/algorithm",
+    "version": "1.0.0",
+    "description": "A JavaScript library for some classic algorithm",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tomee-oy/js-algorithm.git"
+    },
+    "keywords": [
+        "js",
+        "algorithm"
+    ],
+    "author": "tomee",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tomee-oy/js-algorithm/issues"
+    },
+    "homepage": "https://github.com/tomee-oy/js-algorithm#readme",
+    "dependencies": {
+        "father": "^2.29.1"
+    }
+}
