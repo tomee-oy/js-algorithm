@@ -23,5 +23,6 @@
     "homepage": "https://github.com/tomee-oy/js-algorithm#readme",
     "dependencies": {
         "father": "^2.29.1"
-    }
+    },
+    "pre-commit": ["eslint", "prettier"]
 }
